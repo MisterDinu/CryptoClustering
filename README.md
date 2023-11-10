@@ -8,3 +8,4 @@ https://stackoverflow.com/questions/59678780/show-extra-columns-when-hovering-in
 
 https://hvplot.holoviz.org/user_guide/Customization.html
 
+https://holoviz.org/tutorial/Composing_Plots.html
